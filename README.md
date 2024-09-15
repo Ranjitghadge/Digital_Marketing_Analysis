@@ -77,7 +77,8 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
    - Conversion rates peaked in **December** at 10.2%, rebounding from October's low of 5.0%.
    - Seasonal product demand (e.g., Ski Boots) drove **150% conversion** in January.
 
-   ![Conversion Trends](path_to_image/conversion_trends.png)
+  ![image](https://github.com/user-attachments/assets/12825205-b1ef-42b0-9df0-1916c255a9b8)
+
 
 ### 2. **Customer Engagement**
    - Engagement peaked in **February** but declined from **August** onwards.
