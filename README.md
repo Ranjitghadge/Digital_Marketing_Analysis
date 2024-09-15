@@ -1,6 +1,7 @@
 # 🛒 Marketing Analytics Business Case
 
-![Marketing Analytics Banner](https://cdn.prod.website-files.com/637610b6e8be873142dadb34/63e230272b23e25805d133c9_customer-analytics-1.jpeg)
+![image](https://github.com/user-attachments/assets/3439cc75-e7e8-4675-875c-ae1620788e6b)
+
 
 ## Project Overview
 
@@ -41,7 +42,7 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 
 ## 📊 Key Performance Indicators (KPIs)
 
-![KPIs Image](![image](https://github.com/user-attachments/assets/dc5e225d-aa6e-4b95-adb4-b951b1eac706)
+!(https://github.com/user-attachments/assets/dc5e225d-aa6e-4b95-adb4-b951b1eac706)
 
 - **Conversion Rate**: Percentage of site visitors who complete a purchase.
 - **Engagement Rate**: Interactions with content (clicks, likes, comments).
