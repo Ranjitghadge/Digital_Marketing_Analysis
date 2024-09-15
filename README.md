@@ -15,8 +15,6 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 
 ## 🚩 Problem Statement
 
-![Problem Statement Image](path_to_image/problem_statement.png)
-
 ### Key Issues
 - **Reduced Customer Engagement**: Fewer interactions with site and marketing content.
 - **Low Conversion Rates**: Fewer visitors are converting to paying customers.
@@ -43,7 +41,7 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 
 ## 📊 Key Performance Indicators (KPIs)
 
-![KPIs Image](path_to_image/kpis.png)
+![KPIs Image](![image](https://github.com/user-attachments/assets/dc5e225d-aa6e-4b95-adb4-b951b1eac706)
 
 - **Conversion Rate**: Percentage of site visitors who complete a purchase.
 - **Engagement Rate**: Interactions with content (clicks, likes, comments).
