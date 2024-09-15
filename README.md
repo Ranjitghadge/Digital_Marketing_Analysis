@@ -42,7 +42,8 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 
 ## 📊 Key Performance Indicators (KPIs)
 
-!(https://github.com/user-attachments/assets/dc5e225d-aa6e-4b95-adb4-b951b1eac706)
+![image](https://github.com/user-attachments/assets/8f66da01-b3df-4847-8994-e7f6fd3987ec)
+
 
 - **Conversion Rate**: Percentage of site visitors who complete a purchase.
 - **Engagement Rate**: Interactions with content (clicks, likes, comments).
