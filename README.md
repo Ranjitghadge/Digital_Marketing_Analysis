@@ -1,6 +1,6 @@
 # 🛒 Marketing Analytics Business Case
 
-![Marketing Analytics Banner](path_to_image/banner.png)
+![Marketing Analytics Banner](D:\Digital Marketing Project.png)
 
 ## Project Overview
 
