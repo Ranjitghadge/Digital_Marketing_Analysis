@@ -88,13 +88,15 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
    - Engagement peaked in **February** but declined from **August** onwards.
    - Blog content led engagement, while video content was stable but less interactive.
 
-   ![Engagement Analysis](path_to_image/engagement_analysis.png)
+![image](https://github.com/user-attachments/assets/e0f987c6-91ae-4632-89e3-52482212fa98)
+
 
 ### 3. **Customer Feedback**
    - Average customer rating: **3.7**, slightly below the 4.0 target.
    - **140 reviews** at 4 stars, and **135 reviews** at 5 stars, indicating overall satisfaction.
 
-   ![Feedback Sentiment](path_to_image/feedback_sentiment.png)
+  ![image](https://github.com/user-attachments/assets/fc7695dd-d85a-430d-b539-373784a8a934)
+
 
 ---
 
